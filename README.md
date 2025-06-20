@@ -2,35 +2,34 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFSP - Araraquara
-- 💻 Técnico em Informática formado pelo IFSP
-- 🌐 Apaixonado por **desenvolvimento web**, especialmente **front-end**
-- 🧠 Atualmente estudando **JavaScript** e **React** com foco em projetos práticos
-- 🔧 Gosto de criar soluções úteis como checklists, sites responsivos e experiências interativas
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFSP - Araraquara  
+- 💻 Técnico em Informática formado pelo IFSP  
+- 🖥️ Interessado em **desenvolvimento back-end** e automações inteligentes  
+- 🔧 Atualmente focado em aprender **Node.js** e criar automações com **n8n**  
+- 🤝 Atuo como monitor no IFSP, auxiliando colegas com programação e banco de dados
 
 ## 🌱 No momento estou aprendendo
 
-- React.js
-- SQLite e Python para projetos da faculdade
-- APIs e integração com front-end
-- Lógica mais avançada com JavaScript
+- Node.js e Express  
+- Integrações com APIs REST e automações com n8n  
+- Banco de dados com MySQL e SQLite  
+- Python para atividades acadêmicas
 
 ## 💡 Projetos em andamento
 
-- 🗂️ [Notebase](https://github.com/marcozmz/notebase) – sistema com listas de checklist, imagens e textos, usando IndexedDB
+- 🧠 **Automação com n8n** – coleta dados de formulários, armazena em planilhas e envia notícias diárias por e-mail com IA (Gemini)  
+- 🗂️ [Notebase](https://github.com/marcozmz/notebase) – sistema com listas de checklist, imagens e textos, usando IndexedDB  
 
-## Estou procurando colaborar com
+## 🎯 Buscando colaborar com
 
-- Projetos de sites responsivos
-- Aplicações front-end com JavaScript ou React
-- Iniciativas educacionais ou open source para iniciantes
+- Projetos de automação, APIs e back-end  
+- Aplicações que envolvam Node.js ou integração de dados  
+- Iniciativas educacionais ou open source com foco em backend
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/marco-ant%C3%B4nio-zanchetta-montagna-33aa88247/)
-- 📧 Email: mamontagna100@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcoazanchettamontagna/)
+- 📧 Email: mamontagna100@gmail.com  
 - 💻 GitHub: [@marcozmz](https://github.com/marcozmz)
 
-
-> "Transformando ideias em código e desafios em aprendizado."
-
+> "Automatizar processos, integrar sistemas e crescer com cada linha de código."
