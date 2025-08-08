@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Marco (@marcozmz) - Desenvolvedor Back-end e Especialista em Automações
+# 👋 Olá! Eu sou o Marco (@marcozmz) - Desenvolvedor Back-end
 
 [![IFSP Badge](https://img.shields.io/badge/Análise_e_Desenvolvimento_de_Sistemas-IFSP_Araraquara-blue?logo=bookstack&style=for-the-badge)](https://www.ifsp.edu.br/)
 [![Monitoria](https://img.shields.io/badge/Monitor-IFSP_Araraquara-green?style=for-the-badge&logo=graduation-cap)](https://www.ifsp.edu.br/)
