@@ -13,9 +13,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no IFSP - Araraquara e T
 
 ## 🎯 Foco de Estudos Atual
 
-- **Java**: Aprofundando conhecimentos em POO, Spring Boot e aplicações enterprise
+- **Java**: Aprofundando conhecimentos em POO
 - **.NET/C#**: Explorando o ecossistema Microsoft para desenvolvimento backend
-- **Arquitetura de Software**: Padrões de design e arquiteturas escaláveis
 
 ## 📞 Contato
 
