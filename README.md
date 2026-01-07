@@ -22,6 +22,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no IFSP - Araraquara e T
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:mamontagna100@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/marcozmz)
 
-## 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcozmz&show_icons=true&theme=radical)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcozmz&layout=compact&theme=radical)
